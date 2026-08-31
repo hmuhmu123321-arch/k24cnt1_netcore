@@ -1,0 +1,139 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\K24-NET\\k24cnt1_netcore\\TvcLesson04Lab\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{159FB0FD-CC16-8BD8-169B-7507066876CA}|TvcLesson04Lab.csproj|d:\\k24-net\\k24cnt1_netcore\\tvclesson04lab\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{159FB0FD-CC16-8BD8-169B-7507066876CA}|TvcLesson04Lab.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{159FB0FD-CC16-8BD8-169B-7507066876CA}|TvcLesson04Lab.csproj|d:\\k24-net\\k24cnt1_netcore\\tvclesson04lab\\controllers\\tvcaccountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{159FB0FD-CC16-8BD8-169B-7507066876CA}|TvcLesson04Lab.csproj|solutionrelative:controllers\\tvcaccountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{159FB0FD-CC16-8BD8-169B-7507066876CA}|TvcLesson04Lab.csproj|d:\\k24-net\\k24cnt1_netcore\\tvclesson04lab\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{159FB0FD-CC16-8BD8-169B-7507066876CA}|TvcLesson04Lab.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{159FB0FD-CC16-8BD8-169B-7507066876CA}|TvcLesson04Lab.csproj|d:\\k24-net\\k24cnt1_netcore\\tvclesson04lab\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{159FB0FD-CC16-8BD8-169B-7507066876CA}|TvcLesson04Lab.csproj|solutionrelative:wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{159FB0FD-CC16-8BD8-169B-7507066876CA}|TvcLesson04Lab.csproj|d:\\k24-net\\k24cnt1_netcore\\tvclesson04lab\\models\\tvcaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{159FB0FD-CC16-8BD8-169B-7507066876CA}|TvcLesson04Lab.csproj|solutionrelative:models\\tvcaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\K24-NET\\k24cnt1_netcore\\TvcLesson04Lab\\Views\\TvcAccount\\TvcIndex.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Views\\TvcAccount\\TvcIndex.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{159FB0FD-CC16-8BD8-169B-7507066876CA}|TvcLesson04Lab.csproj|d:\\k24-net\\k24cnt1_netcore\\tvclesson04lab\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{159FB0FD-CC16-8BD8-169B-7507066876CA}|TvcLesson04Lab.csproj|solutionrelative:controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\K24-NET\\k24cnt1_netcore\\TvcLesson04Lab\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\K24-NET\\k24cnt1_netcore\\TvcLesson04Lab\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAQwCoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-31T09:32:11.242Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "site.css",
+              "DocumentMoniker": "D:\\K24-NET\\k24cnt1_netcore\\TvcLesson04Lab\\wwwroot\\css\\site.css",
+              "RelativeDocumentMoniker": "wwwroot\\css\\site.css",
+              "ToolTip": "D:\\K24-NET\\k24cnt1_netcore\\TvcLesson04Lab\\wwwroot\\css\\site.css",
+              "RelativeToolTip": "wwwroot\\css\\site.css",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAYwBoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2026-08-31T03:16:43.435Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "TvcAccount.cs",
+              "DocumentMoniker": "D:\\K24-NET\\k24cnt1_netcore\\TvcLesson04Lab\\Models\\TvcAccount.cs",
+              "RelativeDocumentMoniker": "Models\\TvcAccount.cs",
+              "ToolTip": "D:\\K24-NET\\k24cnt1_netcore\\TvcLesson04Lab\\Models\\TvcAccount.cs",
+              "RelativeToolTip": "Models\\TvcAccount.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-31T02:34:39.166Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "TvcIndex.cshtml",
+              "DocumentMoniker": "D:\\K24-NET\\k24cnt1_netcore\\TvcLesson04Lab\\Views\\TvcAccount\\TvcIndex.cshtml",
+              "RelativeDocumentMoniker": "Views\\TvcAccount\\TvcIndex.cshtml",
+              "ToolTip": "D:\\K24-NET\\k24cnt1_netcore\\TvcLesson04Lab\\Views\\TvcAccount\\TvcIndex.cshtml",
+              "RelativeToolTip": "Views\\TvcAccount\\TvcIndex.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-08-31T02:22:47.047Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TvcAccountController.cs",
+              "DocumentMoniker": "D:\\K24-NET\\k24cnt1_netcore\\TvcLesson04Lab\\Controllers\\TvcAccountController.cs",
+              "RelativeDocumentMoniker": "Controllers\\TvcAccountController.cs",
+              "ToolTip": "D:\\K24-NET\\k24cnt1_netcore\\TvcLesson04Lab\\Controllers\\TvcAccountController.cs",
+              "RelativeToolTip": "Controllers\\TvcAccountController.cs",
+              "ViewState": "AgIAACkAAAAAAAAAAAAqwFcAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-31T02:22:25.337Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "D:\\K24-NET\\k24cnt1_netcore\\TvcLesson04Lab\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\K24-NET\\k24cnt1_netcore\\TvcLesson04Lab\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADQAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-08-31T09:33:27.742Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "D:\\K24-NET\\k24cnt1_netcore\\TvcLesson04Lab\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
+              "ToolTip": "D:\\K24-NET\\k24cnt1_netcore\\TvcLesson04Lab\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-31T09:41:03.769Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
