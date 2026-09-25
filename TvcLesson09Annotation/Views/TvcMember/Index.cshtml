@@ -1,0 +1,59 @@
+@model IEnumerable<TvcLesson09Annotation.Models.DataModels.TvcMembers>
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h1>Index</h1>
+
+<p>
+    <a asp-action="Create" class="btn btn-primary">Create New</a>
+</p>
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.First().TvcMemberId)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.First().TvcUserName)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.First().TvcPassword)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.First().TvcEmail)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.First().TvcPhoneNumber)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.First().TvcFullName)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.First().TvcBirthday)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model ?? Enumerable.Empty<TvcLesson09Annotation.Models.DataModels.TvcMembers>())
+{
+        <tr>
+            <td>@item.TvcMemberId</td>
+            <td>@item.TvcUserName</td>
+            <td>@item.TvcPassword</td>
+            <td>@item.TvcEmail</td>
+            <td>@item.TvcPhoneNumber</td>
+            <td>@item.TvcFullName</td>
+            <td>@item.TvcBirthday.ToShortDateString()</td>
+            <td>
+                <a asp-action="Edit" asp-route-id="@item.TvcMemberId">Edit</a> |
+                <a asp-action="Details" asp-route-id="@item.TvcMemberId">Details</a> |
+                <a asp-action="Delete" asp-route-id="@item.TvcMemberId">Delete</a>
+            </td>
+        </tr>
+}
+    </tbody>
+</table>
