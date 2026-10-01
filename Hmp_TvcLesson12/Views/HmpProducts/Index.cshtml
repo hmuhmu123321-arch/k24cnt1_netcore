@@ -1,0 +1,62 @@
+@model IEnumerable<Hmp_TvcLesson12.Models.HmpProduct>
+
+@{
+    ViewData["Title"] = "Danh sách sản phẩm";
+}
+
+<h1>Danh sách sản phẩm</h1>
+
+<p>
+    <a class="btn btn-success" asp-action="Create">Thêm mới</a>
+</p>
+
+<table class="table table-bordered table-hover">
+    <thead class="table-dark">
+        <tr>
+            <th>Name</th>
+            <th>Image</th>
+            <th>Price</th>
+            <th>SalePrice</th>
+            <th>Status</th>
+            <th>Descriptions</th>
+            <th>CreatedDate</th>
+            <th>Category</th>
+            <th>Action</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>@Html.DisplayFor(modelItem => item.HmpName)</td>
+
+                <!-- HIỂN THỊ ẢNH -->
+                <td>
+                    @if (!string.IsNullOrEmpty(item.HmpImage))
+                    {
+                        <img src="~/Hmp_Product/@item.HmpImage"
+                             width="80" height="80"
+                             style="object-fit: cover; border-radius: 5px;" />
+                    }
+                    else
+                    {
+                        <span class="text-muted">No image</span>
+                    }
+                </td>
+
+                <td>@Html.DisplayFor(modelItem => item.HmpPrice)</td>
+                <td>@Html.DisplayFor(modelItem => item.HmpSalePrice)</td>
+                <td>@Html.DisplayFor(modelItem => item.HmpStatus)</td>
+                <td>@Html.DisplayFor(modelItem => item.HmpDescriptions)</td>
+                <td>@Html.DisplayFor(modelItem => item.HmpCreatedDate)</td>
+                <td>@Html.DisplayFor(modelItem => item.HmpCategoryId)</td>
+
+                <td>
+                    <a class="btn btn-sm btn-primary" asp-action="Edit" asp-route-id="@item.HmpId">Edit</a>
+                    <a class="btn btn-sm btn-warning" asp-action="Details" asp-route-id="@item.HmpId">Details</a>
+                    <a class="btn btn-sm btn-danger" asp-action="Delete" asp-route-id="@item.HmpId">Delete</a>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>

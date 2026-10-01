@@ -1,0 +1,70 @@
+@model Hmp_TvcLesson12.Models.HmpProduct
+
+@{
+    ViewData["Title"] = "Thêm mới sản phẩm";
+}
+
+<h1>Thêm mới sản phẩm</h1>
+
+<h4>Product</h4>
+<hr />
+<div class="row">
+    <div class="col-md-6">
+        <!-- QUAN TRỌNG: enctype="multipart/form-data" để upload file -->
+        <form asp-action="Create" enctype="multipart/form-data">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+
+            <div class="form-group">
+                <label asp-for="HmpName" class="control-label">Name</label>
+                <input asp-for="HmpName" class="form-control" />
+                <span asp-validation-for="HmpName" class="text-danger"></span>
+            </div>
+
+            <!-- ĐỔI TỪ HmpImage (string) THÀNH HmpImageFile (IFormFile) -->
+            <div class="form-group">
+                <label asp-for="HmpImageFile" class="control-label">Image</label>
+                <input asp-for="HmpImageFile" type="file" class="form-control" accept="image/*" />
+                <span asp-validation-for="HmpImageFile" class="text-danger"></span>
+            </div>
+
+            <div class="form-group">
+                <label asp-for="HmpPrice" class="control-label">Price</label>
+                <input asp-for="HmpPrice" class="form-control" />
+                <span asp-validation-for="HmpPrice" class="text-danger"></span>
+            </div>
+
+            <div class="form-group">
+                <label asp-for="HmpSalePrice" class="control-label">SalePrice</label>
+                <input asp-for="HmpSalePrice" class="form-control" />
+                <span asp-validation-for="HmpSalePrice" class="text-danger"></span>
+            </div>
+
+            <div class="form-group">
+                <label asp-for="HmpStatus" class="control-label">Status</label>
+                <input asp-for="HmpStatus" class="form-control" />
+                <span asp-validation-for="HmpStatus" class="text-danger"></span>
+            </div>
+
+            <div class="form-group">
+                <label asp-for="HmpDescriptions" class="control-label">Descriptions</label>
+                <textarea asp-for="HmpDescriptions" class="form-control"></textarea>
+                <span asp-validation-for="HmpDescriptions" class="text-danger"></span>
+            </div>
+
+            <div class="form-group">
+                <label asp-for="HmpCategoryId" class="control-label">CategoryId</label>
+                <input asp-for="HmpCategoryId" class="form-control" />
+                <span asp-validation-for="HmpCategoryId" class="text-danger"></span>
+            </div>
+
+            <div class="form-group mt-2">
+                <input type="submit" value="Lưu lại" class="btn btn-primary" />
+                <a asp-action="Index" class="btn btn-secondary">Về danh sách</a>
+            </div>
+        </form>
+    </div>
+</div>
+
+@section Scripts {
+    <partial name="_ValidationScriptsPartial" />
+}

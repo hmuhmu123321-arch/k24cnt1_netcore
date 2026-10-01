@@ -1,0 +1,241 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\K24-NET\\HaPhuc.net\\Hmp_TvcLesson12\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{56F3BCD5-4AD2-4991-A427-D700C54FFAB3}|Hmp_TvcLesson12.csproj|d:\\k24-net\\haphuc.net\\hmp_tvclesson12\\models\\hmpproductextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{56F3BCD5-4AD2-4991-A427-D700C54FFAB3}|Hmp_TvcLesson12.csproj|solutionrelative:models\\hmpproductextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56F3BCD5-4AD2-4991-A427-D700C54FFAB3}|Hmp_TvcLesson12.csproj|d:\\k24-net\\haphuc.net\\hmp_tvclesson12\\views\\hmpproducts\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{56F3BCD5-4AD2-4991-A427-D700C54FFAB3}|Hmp_TvcLesson12.csproj|solutionrelative:views\\hmpproducts\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56F3BCD5-4AD2-4991-A427-D700C54FFAB3}|Hmp_TvcLesson12.csproj|d:\\k24-net\\haphuc.net\\hmp_tvclesson12\\views\\hmpproducts\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{56F3BCD5-4AD2-4991-A427-D700C54FFAB3}|Hmp_TvcLesson12.csproj|solutionrelative:views\\hmpproducts\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56F3BCD5-4AD2-4991-A427-D700C54FFAB3}|Hmp_TvcLesson12.csproj|d:\\k24-net\\haphuc.net\\hmp_tvclesson12\\views\\hmpproducts\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{56F3BCD5-4AD2-4991-A427-D700C54FFAB3}|Hmp_TvcLesson12.csproj|solutionrelative:views\\hmpproducts\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56F3BCD5-4AD2-4991-A427-D700C54FFAB3}|Hmp_TvcLesson12.csproj|d:\\k24-net\\haphuc.net\\hmp_tvclesson12\\views\\hmpproducts\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{56F3BCD5-4AD2-4991-A427-D700C54FFAB3}|Hmp_TvcLesson12.csproj|solutionrelative:views\\hmpproducts\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56F3BCD5-4AD2-4991-A427-D700C54FFAB3}|Hmp_TvcLesson12.csproj|d:\\k24-net\\haphuc.net\\hmp_tvclesson12\\views\\hmpproducts\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{56F3BCD5-4AD2-4991-A427-D700C54FFAB3}|Hmp_TvcLesson12.csproj|solutionrelative:views\\hmpproducts\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56F3BCD5-4AD2-4991-A427-D700C54FFAB3}|Hmp_TvcLesson12.csproj|d:\\k24-net\\haphuc.net\\hmp_tvclesson12\\controllers\\hmpproductscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{56F3BCD5-4AD2-4991-A427-D700C54FFAB3}|Hmp_TvcLesson12.csproj|solutionrelative:controllers\\hmpproductscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56F3BCD5-4AD2-4991-A427-D700C54FFAB3}|Hmp_TvcLesson12.csproj|d:\\k24-net\\haphuc.net\\hmp_tvclesson12\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{56F3BCD5-4AD2-4991-A427-D700C54FFAB3}|Hmp_TvcLesson12.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56F3BCD5-4AD2-4991-A427-D700C54FFAB3}|Hmp_TvcLesson12.csproj|d:\\k24-net\\haphuc.net\\hmp_tvclesson12\\models\\hmpproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{56F3BCD5-4AD2-4991-A427-D700C54FFAB3}|Hmp_TvcLesson12.csproj|solutionrelative:models\\hmpproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56F3BCD5-4AD2-4991-A427-D700C54FFAB3}|Hmp_TvcLesson12.csproj|d:\\k24-net\\haphuc.net\\hmp_tvclesson12\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{56F3BCD5-4AD2-4991-A427-D700C54FFAB3}|Hmp_TvcLesson12.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56F3BCD5-4AD2-4991-A427-D700C54FFAB3}|Hmp_TvcLesson12.csproj|d:\\k24-net\\haphuc.net\\hmp_tvclesson12\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{56F3BCD5-4AD2-4991-A427-D700C54FFAB3}|Hmp_TvcLesson12.csproj|solutionrelative:controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56F3BCD5-4AD2-4991-A427-D700C54FFAB3}|Hmp_TvcLesson12.csproj|d:\\k24-net\\haphuc.net\\hmp_tvclesson12\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{56F3BCD5-4AD2-4991-A427-D700C54FFAB3}|Hmp_TvcLesson12.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56F3BCD5-4AD2-4991-A427-D700C54FFAB3}|Hmp_TvcLesson12.csproj|d:\\k24-net\\haphuc.net\\hmp_tvclesson12\\models\\hmptvclesson12context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{56F3BCD5-4AD2-4991-A427-D700C54FFAB3}|Hmp_TvcLesson12.csproj|solutionrelative:models\\hmptvclesson12context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "HmpProductExtensions.cs",
+              "DocumentMoniker": "D:\\K24-NET\\HaPhuc.net\\Hmp_TvcLesson12\\Models\\HmpProductExtensions.cs",
+              "RelativeDocumentMoniker": "Models\\HmpProductExtensions.cs",
+              "ToolTip": "D:\\K24-NET\\HaPhuc.net\\Hmp_TvcLesson12\\Models\\HmpProductExtensions.cs",
+              "RelativeToolTip": "Models\\HmpProductExtensions.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-01T16:53:32.509Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "D:\\K24-NET\\HaPhuc.net\\Hmp_TvcLesson12\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\K24-NET\\HaPhuc.net\\Hmp_TvcLesson12\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAAACcAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-10-01T16:41:12.109Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "D:\\K24-NET\\HaPhuc.net\\Hmp_TvcLesson12\\Views\\HmpProducts\\Delete.cshtml",
+              "RelativeDocumentMoniker": "Views\\HmpProducts\\Delete.cshtml",
+              "ToolTip": "D:\\K24-NET\\HaPhuc.net\\Hmp_TvcLesson12\\Views\\HmpProducts\\Delete.cshtml",
+              "RelativeToolTip": "Views\\HmpProducts\\Delete.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADoAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-10-01T16:40:19.246Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "D:\\K24-NET\\HaPhuc.net\\Hmp_TvcLesson12\\Views\\HmpProducts\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Views\\HmpProducts\\Edit.cshtml",
+              "ToolTip": "D:\\K24-NET\\HaPhuc.net\\Hmp_TvcLesson12\\Views\\HmpProducts\\Edit.cshtml",
+              "RelativeToolTip": "Views\\HmpProducts\\Edit.cshtml",
+              "ViewState": "AgIAACEAAAAAAAAAAAAAAFwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-10-01T16:40:07.659Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "D:\\K24-NET\\HaPhuc.net\\Hmp_TvcLesson12\\Views\\HmpProducts\\Create.cshtml",
+              "RelativeDocumentMoniker": "Views\\HmpProducts\\Create.cshtml",
+              "ToolTip": "D:\\K24-NET\\HaPhuc.net\\Hmp_TvcLesson12\\Views\\HmpProducts\\Create.cshtml",
+              "RelativeToolTip": "Views\\HmpProducts\\Create.cshtml",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAqwEUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-10-01T16:39:56.124Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "D:\\K24-NET\\HaPhuc.net\\Hmp_TvcLesson12\\Views\\HmpProducts\\Details.cshtml",
+              "RelativeDocumentMoniker": "Views\\HmpProducts\\Details.cshtml",
+              "ToolTip": "D:\\K24-NET\\HaPhuc.net\\Hmp_TvcLesson12\\Views\\HmpProducts\\Details.cshtml",
+              "RelativeToolTip": "Views\\HmpProducts\\Details.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADkAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-10-01T16:39:43.277Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\K24-NET\\HaPhuc.net\\Hmp_TvcLesson12\\Views\\HmpProducts\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\HmpProducts\\Index.cshtml",
+              "ToolTip": "D:\\K24-NET\\HaPhuc.net\\Hmp_TvcLesson12\\Views\\HmpProducts\\Index.cshtml",
+              "RelativeToolTip": "Views\\HmpProducts\\Index.cshtml",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAAAD0AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-10-01T16:39:30.597Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "HmpProductsController.cs",
+              "DocumentMoniker": "D:\\K24-NET\\HaPhuc.net\\Hmp_TvcLesson12\\Controllers\\HmpProductsController.cs",
+              "RelativeDocumentMoniker": "Controllers\\HmpProductsController.cs",
+              "ToolTip": "D:\\K24-NET\\HaPhuc.net\\Hmp_TvcLesson12\\Controllers\\HmpProductsController.cs",
+              "RelativeToolTip": "Controllers\\HmpProductsController.cs",
+              "ViewState": "AgIAAFAAAAAAAAAAAAAcwKkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-01T16:39:17.267Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\K24-NET\\HaPhuc.net\\Hmp_TvcLesson12\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\K24-NET\\HaPhuc.net\\Hmp_TvcLesson12\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAQwCsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-01T16:36:59.074Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "D:\\K24-NET\\HaPhuc.net\\Hmp_TvcLesson12\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
+              "ToolTip": "D:\\K24-NET\\HaPhuc.net\\Hmp_TvcLesson12\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-01T16:37:42.741Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\K24-NET\\HaPhuc.net\\Hmp_TvcLesson12\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "D:\\K24-NET\\HaPhuc.net\\Hmp_TvcLesson12\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-10-01T16:36:30.36Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "HmpProduct.cs",
+              "DocumentMoniker": "D:\\K24-NET\\HaPhuc.net\\Hmp_TvcLesson12\\Models\\HmpProduct.cs",
+              "RelativeDocumentMoniker": "Models\\HmpProduct.cs",
+              "ToolTip": "D:\\K24-NET\\HaPhuc.net\\Hmp_TvcLesson12\\Models\\HmpProduct.cs",
+              "RelativeToolTip": "Models\\HmpProduct.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-01T16:36:00.556Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "HmpTvcLesson12Context.cs",
+              "DocumentMoniker": "D:\\K24-NET\\HaPhuc.net\\Hmp_TvcLesson12\\Models\\HmpTvcLesson12Context.cs",
+              "RelativeDocumentMoniker": "Models\\HmpTvcLesson12Context.cs",
+              "ToolTip": "D:\\K24-NET\\HaPhuc.net\\Hmp_TvcLesson12\\Models\\HmpTvcLesson12Context.cs",
+              "RelativeToolTip": "Models\\HmpTvcLesson12Context.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAgwBIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-01T16:35:30.397Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,59 @@
+@model Hmp_TvcLesson12.Models.HmpProduct
+
+@{
+    ViewData["Title"] = "Xóa sản phẩm";
+}
+
+<h1>Xóa sản phẩm</h1>
+
+<h4 class="text-danger">Bạn có chắc chắn muốn xóa sản phẩm này không?</h4>
+<div>
+    <h4>Product</h4>
+    <hr />
+    <dl class="row">
+        <dt class="col-sm-2">ID</dt>
+        <dd class="col-sm-10">@Html.DisplayFor(model => model.HmpId)</dd>
+
+        <dt class="col-sm-2">Name</dt>
+        <dd class="col-sm-10">@Html.DisplayFor(model => model.HmpName)</dd>
+
+        <!-- HIỂN THỊ ẢNH -->
+        <dt class="col-sm-2">Image</dt>
+        <dd class="col-sm-10">
+            @if (!string.IsNullOrEmpty(Model.HmpImage))
+            {
+                <img src="~/Hmp_Product/@Model.HmpImage"
+                     width="120" height="120"
+                     style="object-fit: cover; border-radius: 5px; border: 1px solid #ddd;" />
+            }
+            else
+            {
+                <span class="text-muted">No image</span>
+            }
+        </dd>
+
+        <dt class="col-sm-2">Price</dt>
+        <dd class="col-sm-10">@Html.DisplayFor(model => model.HmpPrice)</dd>
+
+        <dt class="col-sm-2">SalePrice</dt>
+        <dd class="col-sm-10">@Html.DisplayFor(model => model.HmpSalePrice)</dd>
+
+        <dt class="col-sm-2">Status</dt>
+        <dd class="col-sm-10">@Html.DisplayFor(model => model.HmpStatus)</dd>
+
+        <dt class="col-sm-2">Descriptions</dt>
+        <dd class="col-sm-10">@Html.DisplayFor(model => model.HmpDescriptions)</dd>
+
+        <dt class="col-sm-2">CreatedDate</dt>
+        <dd class="col-sm-10">@Html.DisplayFor(model => model.HmpCreatedDate)</dd>
+
+        <dt class="col-sm-2">Category</dt>
+        <dd class="col-sm-10">@Html.DisplayFor(model => model.HmpCategoryId)</dd>
+    </dl>
+
+    <form asp-action="Delete">
+        <input type="hidden" asp-for="HmpId" />
+        <input type="submit" value="Xóa" class="btn btn-danger" />
+        <a asp-action="Index" class="btn btn-secondary">Về danh sách</a>
+    </form>
+</div>
