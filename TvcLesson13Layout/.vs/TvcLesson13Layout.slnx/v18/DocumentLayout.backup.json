@@ -1,0 +1,139 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\K24-NET\\k24cnt1_netcore\\TvcLesson13Layout\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{184F8652-C411-4668-A010-F9F0C14172CB}|TvcLesson13Layout.csproj|d:\\k24-net\\k24cnt1_netcore\\tvclesson13layout\\wwwroot\\css\\hmplayouthome.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{184F8652-C411-4668-A010-F9F0C14172CB}|TvcLesson13Layout.csproj|solutionrelative:wwwroot\\css\\hmplayouthome.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{184F8652-C411-4668-A010-F9F0C14172CB}|TvcLesson13Layout.csproj|d:\\k24-net\\k24cnt1_netcore\\tvclesson13layout\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{184F8652-C411-4668-A010-F9F0C14172CB}|TvcLesson13Layout.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{184F8652-C411-4668-A010-F9F0C14172CB}|TvcLesson13Layout.csproj|d:\\k24-net\\k24cnt1_netcore\\tvclesson13layout\\views\\shared\\_hmplayouthome.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{184F8652-C411-4668-A010-F9F0C14172CB}|TvcLesson13Layout.csproj|solutionrelative:views\\shared\\_hmplayouthome.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{184F8652-C411-4668-A010-F9F0C14172CB}|TvcLesson13Layout.csproj|d:\\k24-net\\k24cnt1_netcore\\tvclesson13layout\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{184F8652-C411-4668-A010-F9F0C14172CB}|TvcLesson13Layout.csproj|solutionrelative:controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{184F8652-C411-4668-A010-F9F0C14172CB}|TvcLesson13Layout.csproj|d:\\k24-net\\k24cnt1_netcore\\tvclesson13layout\\views\\products\\search.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{184F8652-C411-4668-A010-F9F0C14172CB}|TvcLesson13Layout.csproj|solutionrelative:views\\products\\search.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{184F8652-C411-4668-A010-F9F0C14172CB}|TvcLesson13Layout.csproj|d:\\k24-net\\k24cnt1_netcore\\tvclesson13layout\\views\\shared\\hots.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{184F8652-C411-4668-A010-F9F0C14172CB}|TvcLesson13Layout.csproj|solutionrelative:views\\shared\\hots.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{184F8652-C411-4668-A010-F9F0C14172CB}|TvcLesson13Layout.csproj|d:\\k24-net\\k24cnt1_netcore\\tvclesson13layout\\views\\products\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{184F8652-C411-4668-A010-F9F0C14172CB}|TvcLesson13Layout.csproj|solutionrelative:views\\products\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\K24-NET\\k24cnt1_netcore\\TvcLesson13Layout\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\K24-NET\\k24cnt1_netcore\\TvcLesson13Layout\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAQwBQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-02T14:17:31.313Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "HmpLayoutHome.css",
+              "DocumentMoniker": "D:\\K24-NET\\k24cnt1_netcore\\TvcLesson13Layout\\wwwroot\\css\\HmpLayoutHome.css",
+              "RelativeDocumentMoniker": "wwwroot\\css\\HmpLayoutHome.css",
+              "ToolTip": "D:\\K24-NET\\k24cnt1_netcore\\TvcLesson13Layout\\wwwroot\\css\\HmpLayoutHome.css",
+              "RelativeToolTip": "wwwroot\\css\\HmpLayoutHome.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2026-10-02T14:13:26.65Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Hots.cshtml",
+              "DocumentMoniker": "D:\\K24-NET\\k24cnt1_netcore\\TvcLesson13Layout\\Views\\Shared\\Hots.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\Hots.cshtml",
+              "ToolTip": "D:\\K24-NET\\k24cnt1_netcore\\TvcLesson13Layout\\Views\\Shared\\Hots.cshtml",
+              "RelativeToolTip": "Views\\Shared\\Hots.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-10-02T14:10:06.331Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Search.cshtml",
+              "DocumentMoniker": "D:\\K24-NET\\k24cnt1_netcore\\TvcLesson13Layout\\Views\\Products\\Search.cshtml",
+              "RelativeDocumentMoniker": "Views\\Products\\Search.cshtml",
+              "ToolTip": "D:\\K24-NET\\k24cnt1_netcore\\TvcLesson13Layout\\Views\\Products\\Search.cshtml",
+              "RelativeToolTip": "Views\\Products\\Search.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-10-02T14:08:37.332Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\K24-NET\\k24cnt1_netcore\\TvcLesson13Layout\\Views\\Products\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Products\\Index.cshtml",
+              "ToolTip": "D:\\K24-NET\\k24cnt1_netcore\\TvcLesson13Layout\\Views\\Products\\Index.cshtml",
+              "RelativeToolTip": "Views\\Products\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-10-02T14:04:53.35Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ProductsController.cs",
+              "DocumentMoniker": "D:\\K24-NET\\k24cnt1_netcore\\TvcLesson13Layout\\Controllers\\ProductsController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ProductsController.cs",
+              "ToolTip": "D:\\K24-NET\\k24cnt1_netcore\\TvcLesson13Layout\\Controllers\\ProductsController.cs",
+              "RelativeToolTip": "Controllers\\ProductsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-02T14:02:08.285Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "_HmpLayoutHome.cshtml",
+              "DocumentMoniker": "D:\\K24-NET\\k24cnt1_netcore\\TvcLesson13Layout\\Views\\Shared\\_HmpLayoutHome.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_HmpLayoutHome.cshtml",
+              "ToolTip": "D:\\K24-NET\\k24cnt1_netcore\\TvcLesson13Layout\\Views\\Shared\\_HmpLayoutHome.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_HmpLayoutHome.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAABWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-10-02T13:58:42.342Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
