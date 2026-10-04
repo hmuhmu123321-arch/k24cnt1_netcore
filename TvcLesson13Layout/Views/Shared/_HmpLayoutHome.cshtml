@@ -1,0 +1,26 @@
+﻿<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>@ViewBag.Title</title>
+    <link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.min.css" />
+    <link rel="stylesheet" href="~/css/HmpLayoutHome.css" asp-append-version="true" />
+</head>
+<body>
+    <nav class="container border-1 my-1 p-2">
+        <div>
+            <a href="/Products/Index" title="Danh sách sản phẩm">Sản phẩm</a>
+            <a asp-action="Search" asp-controller="Products" title="Tìm kiếm sản phẩm">Tìm kiếm</a>
+            <a asp-action="Hots" asp-controller="Products" title="Sản phẩm nổi bật">Nổi bật</a>
+            <a href="/Product/About" title="Về chúng tôi">Về chúng tôi</a>
+        </div>
+    </nav>
+    <div class="container border-1 my-1 p-2">
+        @RenderBody()
+    </div>
+    <footer class="container border-1 my-1 p-2">
+        <p style="text-align: center;">&copy; 10/2026 - Copyright by MinhPhuc</p>
+    </footer>
+</body>
+</html>

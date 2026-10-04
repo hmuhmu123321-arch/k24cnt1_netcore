@@ -1,0 +1,36 @@
+@model TvcLesson10EFDbFirst.Models.TvcMember
+
+@{
+    ViewData["Title"] = "Details";
+}
+
+<h1>Details</h1>
+
+<div>
+    <h4>TvcMember</h4>
+    <hr />
+    <dl class="row">
+        <dt class = "col-sm-2">Id</dt>
+        <dd class = "col-sm-10">@Model.Id</dd>
+
+        <dt class = "col-sm-2">Username</dt>
+        <dd class = "col-sm-10">@Model.TvcUsername</dd>
+
+        <dt class = "col-sm-2">Full name</dt>
+        <dd class = "col-sm-10">@Model.TvcFullName</dd>
+
+        <dt class = "col-sm-2">Email</dt>
+        <dd class = "col-sm-10">@Model.TvcEmail</dd>
+
+        <dt class = "col-sm-2">Phone</dt>
+        <dd class = "col-sm-10">@Model.TvcPhone</dd>
+
+        <dt class = "col-sm-2">Status</dt>
+        <dd class = "col-sm-10">@(Model.TvcStatus == true ? "Active" : "Inactive")</dd>
+    </dl>
+</div>
+
+<div>
+    <a asp-action="Edit" asp-route-id="@Model.Id" class="btn btn-primary">Edit</a>
+    <a asp-action="Index" class="btn btn-secondary">Back to List</a>
+</div>
